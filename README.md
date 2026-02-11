@@ -1,3 +1,5 @@
+This project **has moved** to https://github.com/astroberry-official and will not be maintained **here** anymore.
+
 # astroberry-server-full
 Astoberry Server Full is a meta package that install all necessary components of Astroberry Server
 
